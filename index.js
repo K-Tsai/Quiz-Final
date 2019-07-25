@@ -5,9 +5,9 @@ function generateQuestion() {
 	if (questionNumber < STORE.length) {
 	return ` 
 	<div class= "questionForm">
-	<h2>${STORE[questionNumber].question}</h2>
 	<form>
 		<fieldset>
+			<h2>${STORE[questionNumber].question}</h2>
 			<label class="answerOption">
 				<input type="radio" value="${STORE[questionNumber].answers[0]}" name="answer" required>
 				<span>${STORE[questionNumber].answers[0]}</span>

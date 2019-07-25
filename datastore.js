@@ -32,7 +32,7 @@ const STORE = [
 		"Sly Cooper"
 		],
 		correctAnswer: "Spyro",
-		icon: 'https://pbs.twimg.com/profile_images/1062210297769984000/X2zf9SS8_400x400.jpg',
+		icon: 'https://upload.wikimedia.org/wikipedia/en/thumb/5/53/Spyro.png/220px-Spyro.png',
 		alt: "Spyro icon"
 	},
 	{

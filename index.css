@@ -72,6 +72,7 @@ header ul {
     display:block;
     background: #3B4ACB;
     border: 2px solid black;
+    cursor: pointer;
     margin: 30px;
     padding: 30px;
     width: 50%;
